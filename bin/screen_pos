@@ -1,0 +1,3 @@
+#!/bin/bash
+
+coffee ~/src/screen_pos/index.coffee "$@"

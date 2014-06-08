@@ -1,0 +1,15 @@
+{
+  "name": "screen_pos",
+  "version": "0.0.0",
+  "description": "position a second monitor with xrander. pass in main monitors position relative to second monitor",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exec": "^0.1.1",
+    "optimist": "^0.6.1"
+  }
+}
